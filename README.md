@@ -9,6 +9,8 @@
 - Collect keys to unlock locked doors, collect the pen and papers to access the professors computer and reveal it's password.
 - Exit the building to successfully complete the heist!
 
+More detailed description available [here](./DDJD-PP-G01-ExamHeist-docs.pdf)
+
 **Tools:** Unity, C#
 
 ---
